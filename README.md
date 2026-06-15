@@ -10,6 +10,5 @@ In the course of my studies, I will replenish the roadmap of what I have learned
 
 ## My Learning Roadmap and Modules
 
-| Module / Topic | Status | Core Tech Stack |
-| :--- | :---: | :--- | :--- |
-| [01. L2 Regularization & Dropout](./L2-Regularization_and_Dropout/) | Mitigating overfitting in deep neural networks. | Python, Scikit-Learn/NumPy |
+
+[01. L2 Regularization & Dropout](./L2-Regularization_and_Dropout/)
