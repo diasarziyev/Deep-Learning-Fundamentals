@@ -12,3 +12,4 @@ In the course of my studies, I will replenish the roadmap of what I have learned
 
 
 [01. L2 Regularization & Dropout](./L2-Regularization_and_Dropout/)
+[02. Optimization Techniques](./Optimization/)
