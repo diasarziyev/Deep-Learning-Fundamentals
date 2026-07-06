@@ -18,3 +18,5 @@ In the course of my studies, I will replenish the roadmap of what I have learned
 [03. Batch Normalization](./Batch_Norm/)
 
 [04. Softmax Regression](./Softmax/)
+
+[05. 1D-CNN](./1DCNN/)
